@@ -1,5 +1,3 @@
-# Base64
-This file contains encoding and decoding code for base64 format
 # Base64 Encoding and Decoding
 
 This project provides a simple implementation of Base64 encoding and decoding in C. Base64 is a binary-to-text encoding scheme that represents binary data in an ASCII string format. It is commonly used to encode data that needs to be stored and transferred over media that are designed to deal with text.
